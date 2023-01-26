@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src_main_java"/>
+	<classpathentry kind="src" path="src_lwjgl_java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/CompileEPK.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/Java-WebSocket-1.5.1-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/MakeOfflineDownload.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/codecjorbis-20101023.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/codecwav-20101023.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl-egl.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl-jemalloc.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl-opengles.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/workspace/EaglerX-client/eaglercraftx-1.8/eagler-client/desktopRuntime/soundsystem-20120107.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
